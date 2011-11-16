@@ -1,0 +1,14 @@
+.idea/
+*.log
+*.iml
+*.ipr
+*.iws
+.classpath
+*.swp
+.settings
+.project
+target/
+web-app/WEB-INF/classes
+devDB.properties
+.DS_Store
+\"/
